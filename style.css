@@ -1,0 +1,39 @@
+h1,h3{
+    text-align: center;
+}
+
+.button{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 23px;
+}
+
+.box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pink{
+    background-color: rgb(241, 105, 241);
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.flash{
+    background-color: white;
+}
+
+body{
+    background-color: bisque;
+}
